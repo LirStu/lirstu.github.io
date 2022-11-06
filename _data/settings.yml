@@ -1,0 +1,39 @@
+---
+#-------------------------------
+# General Site Settings
+title: LirStu
+logo: logo.svg # You can add own logo.
+description: Lir Studio
+
+#-------------------------------
+# Author Settings
+author:
+  name: LiR
+  image: 01.jpg
+  say-hello: 你好, 欢迎访问 <strong>Lir Studio</strong>
+  bio: 设计, 聊天, 记录一些关于 <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, 的开发. 分享一些教程, 免费资源. 喜欢的音乐 <a href="#">music</a> .
+
+#-------------------------------
+# Contact links
+twitter:  # Add your Twitter handle
+facebook: # Add your Facebook handle
+dribbble:  # Add your Dribbble handle
+instagram:  # Add your Instagram handle
+pinterest:  # Add your Pinterest handle
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile:  # Add instagram username
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
